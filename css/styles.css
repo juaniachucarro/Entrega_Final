@@ -116,7 +116,7 @@ h1 {
     
 }
 .contenedorPrincipal .parrafoNT{
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Questrial', sans-serif, '100';
     color: white;
     position: relative;
@@ -192,6 +192,12 @@ h1 {
 .formContacto .textFocus:focus{
     width: 170px;
     font-size: 18px;
+}
+.texto_cr{
+    font-family: 'Questrial', sans-serif, '100';
+    font-size: 20px;
+    color: #4d4d33;
+
 }
 #videoNT{
     width: 560px;
